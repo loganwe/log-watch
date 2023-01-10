@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Log Watch</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link rel="icon" type="image" href="data:image/jpeg;base64,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">
+  <style>
+    body{
+  color: darkgreen;
+  text-align: center;
+  background-image: url("https://i0.hippopx.com/photos/637/227/766/background-brown-circle-cut-preview.jpg")
+    }
+    p{
+        font-size: 45px;
+    }
+    button{
+        font-size: large;
+    }
+  </style>
+</head>
+<body>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="wrapper">
+        <h1>Log Watch</h1>
+        <p><span id="minutes">00</span>:<span id="seconds">00</span>:<span id="tens">00</span></p>
+        <button id="button-start">Start</button>
+        <button id="button-stop">Stop</button>
+        <button id="button-reset">Reset</button>
+        </div> 
+          <script>
+    window.onload = function () {
+  
+  let seconds = 00; 
+  let tens = 00; 
+  let minutes=00;
+  let appendTens = document.getElementById("tens")
+  let appendSeconds = document.getElementById("seconds")
+  let appendMinutes=document.getElementById("minutes")
+  let buttonStart = document.getElementById('button-start');
+  let buttonStop = document.getElementById('button-stop');
+  let buttonReset = document.getElementById('button-reset');
+  let Interval ;
+
+  buttonStart.onclick = function() {
+    
+    clearInterval(Interval);
+     Interval = setInterval(startTimer, 10);
+  }
+  
+    buttonStop.onclick = function() {
+       clearInterval(Interval);
+  }
+  
+
+  buttonReset.onclick = function() {
+     clearInterval(Interval);
+    tens = "00";
+  	seconds = "00";
+      minutes="00";
+      document.title="Log Watch"
+    appendTens.innerHTML = tens;
+  	appendSeconds.innerHTML = seconds;
+    appendMinutes.innerHTML=minutes;
+  }
+  
+   
+  
+  function startTimer () {
+    tens++; 
+    
+    if(tens <= 9){
+      appendTens.innerHTML = "0" + tens;
+    }
+    
+    if (tens > 9){
+      appendTens.innerHTML = tens;
+      
+    } 
+    
+    if (tens > 99) {
+      seconds++;
+      appendSeconds.innerHTML = "0" + seconds;
+      tens = 0;
+      appendTens.innerHTML = "0" + 0;
+    }
+    
+    if (seconds > 9){
+      appendSeconds.innerHTML = seconds;
+    }
+  
+    if (seconds > 59) {
+      minutes++;
+      appendMinutes.innerHTML = "0" + minutes;
+      seconds = 0;
+      appendSeconds.innerHTML = "0" + 0;
+    }
+    document.title="    "+minutes+":"+seconds+":"+tens;
+  }
+  
+
+}
+  </script>
+</body>
+</html>
